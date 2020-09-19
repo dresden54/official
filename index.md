@@ -18,6 +18,7 @@ Every individual has a role to play for the betterment of our organisation
 * Deliver valuable metrics to your company and management to keep track of the progress and risks.
  
 ## Facilitator
+<img src="/unofficial/pictures/facilitator.jpg" width="30%">
 * Responsible for communicating with all team members to ensure the objectives provided by the conductor are meet,
 * Work closely with the team (Software Dev, Quality tester, Operations) to keep them focus and motivated on their tasks,
 * Voice the feedback of the team to the rest of the project responsibles.

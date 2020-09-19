@@ -12,18 +12,19 @@ MLMBSC is already use by several teams in some of the 500 fortune companies.
  
 Every individual has a role to play for the betterment of our organisation
 ## Project Conductor
-<img src="/unofficial/pictures/conductor.jpg" width="30%">
+<img src="/unofficial/pictures/conductor.jpg" width="50%">
 * Responsible for a project which follow the MLMBSC methodology,
 * Work closely with the Marketing/Sales team to ensure the product evolve in the direction needed to meet customers expectation,
 * Deliver valuable metrics to your company and management to keep track of the progress and risks.
  
 ## Facilitator
-<img src="/unofficial/pictures/facilitator.jpg" width="30%">
+<img src="/unofficial/pictures/facilitator.jpg" width="50%">
 * Responsible for communicating with all team members to ensure the objectives provided by the conductor are meet,
 * Work closely with the team (Software Dev, Quality tester, Operations) to keep them focus and motivated on their tasks,
 * Voice the feedback of the team to the rest of the project responsibles.
  
 ## Administrator
+<img src="/unofficial/pictures/administrator.jpg" width="50%">
 * Responsible to ensure MLMBSC methodology is strictly followed on several projects(Cross Team and cross Organisation),
 * Suggest improvement (MLMBSC trainings) to the different team members,
 * Keep up to date with the latest MLMBSC guidelines to ensure your organisation benefits from the latest guideline of MLMBSC

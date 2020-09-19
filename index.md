@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trainings
+title: Official MLMBSC website
 ---
 
 # TODO

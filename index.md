@@ -2,12 +2,7 @@
 layout: default
 title: Official MLMBSC website
 ---
-<img src="/unofficial/pictures/caution.jpg" width="50%">
-# Warning
-This page is only for MLMBSC members. Do not share it with non MLMBSC certified people (especially people having decision power). You should only share the ["official" page](https://dresden54.github.io/official/) to non MLMBSC members 
- 
 # MLMBSC Origin
- 
 <img src="/unofficial/pictures/logo1.png" width="30%">
  
 MLMBSC is a new Software development methodology like Agile, DevOps, Waterfall, or Rapid. It uses some principles of existing methodology to create the ultimate Software Development methodology that will reduce your organisation costs and ensure a better quality in your deliveries. MLMBSC started in 2020 during Covid pandemic and fully integrated the new paradigm shift like the increase of remote workers.

@@ -36,6 +36,7 @@ Every individual has a role to play for the betterment of our organisation
 * Work with other MLMBSC members in your organisation to gather and share success stories.
  
 ## Agent
+<img src="/unofficial/pictures/agent.jpg" width="50%">
 * Responsible to follow basic MLMBSC guideline in its project.
 * Guarantee a minimal knowledge of MLMBSC for the project's participants (Software Dev, Quality tester, Operations, Marketing, Sales)
 * This first level certification can be learned from MLMBSC Administrator or MLMBSC Evangelist.

@@ -12,6 +12,7 @@ MLMBSC is already use by several teams in some of the 500 fortune companies.
  
 Every individual has a role to play for the betterment of our organisation
 ## Project Conductor
+![Logo](/pictures/conductor.jpg)
 * Responsible for a project which follow the MLMBSC methodology,
 * Work closely with the Marketing/Sales team to ensure the product evolve in the direction needed to meet customers expectation,
 * Deliver valuable metrics to your company and management to keep track of the progress and risks.

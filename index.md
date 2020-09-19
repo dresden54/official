@@ -30,6 +30,7 @@ Every individual has a role to play for the betterment of our organisation
 * Keep up to date with the latest MLMBSC guidelines to ensure your organisation benefits from the latest guideline of MLMBSC
  
 ## Evangelist
+<img src="/unofficial/pictures/coach.jpg" width="50%">
 * Responsible for promoting MLMBSC in your organisation(Cross Team and cross Organisation),
 * Act as a Coach during MLMBSC projects events(like Iteration planning),
 * Work with other MLMBSC members in your organisation to gather and share success stories.

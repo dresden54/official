@@ -44,5 +44,5 @@ Every individual has a role to play for the betterment of our organisation
  
 # FAQ
 <img src="/unofficial/pictures/question.jpg" width="50%">
-* Why use Github pages ? Aren't you able to do a website ?
-​If i was able to produce anything real do you think I would be such an expert in BS ? Want a more professional website.... Give me some $$ and I will do better.
+* How to get professional training to implement MLMBSC in our company ?
+Online training will be availble soon.

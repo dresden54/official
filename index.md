@@ -8,6 +8,7 @@ title: Official MLMBSC website
 MLMBSC is a new Software development methodology like Agile, DevOps, Waterfall, or Rapid. It uses some principles of existing methodology to create the ultimate Software Development methodology that will reduce your organisation costs and ensure a better quality in your deliveries. MLMBSC started in 2020 during Covid pandemic and fully integrated the new paradigm shift like the increase of remote workers.
 MLMBSC is already use by several teams in some of the 500 fortune companies.
 
+Software Development methodologies:
 <table>
   <tr>
     <th>Principels</th>
@@ -82,8 +83,6 @@ MLMBSC is already use by several teams in some of the 500 fortune companies.
 </table>
 
 Agile implementation
-<h2>HTML Table</h2>
-
 
 
 <table>

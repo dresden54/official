@@ -8,25 +8,17 @@ title: Official MLMBSC website
 MLMBSC is a new Software development methodology like Agile, DevOps, Waterfall, or Rapid. It uses some principles of existing methodology to create the ultimate Software Development methodology that will reduce your organisation costs and ensure a better quality in your deliveries. MLMBSC started in 2020 during Covid pandemic and fully integrated the new paradigm shift like the increase of remote workers.
 MLMBSC is already use by several teams in some of the 500 fortune companies.
 
-<h2>HTML Table</h2>
-
 <table>
   <tr>
     <th>Principels</th>
-    <th>Waterfall(methodology)</th>
-    <th>Agile(methodology)</th>
-    <th>Feature-driven development(implementation)</th>
-    <th>Scrum</th>
-    <th>Extrem Programing</th>
+    <th>Waterfall</th>
+    <th>Agile</th>
     <th>Lean</th>
-    <th>Rapid application development</th>
+    <th>DevOps</th>
   </tr>
   <tr>
     <td>Flexibility</td>
     <td>Low</td>
-    <td>High</td>
-    <td>Medium</td>
-    <td>High</td>
     <td>High</td>
     <td>High</td>
     <td>High</td>
@@ -35,46 +27,135 @@ MLMBSC is already use by several teams in some of the 500 fortune companies.
     <td>Cost of modification</td>
     <td>High</td>
     <td>Low</td>
-    <td>Medium</td>
-    <td>Low</td>
-    <td>Low</td>
     <td>Low</td>
     <td>Low</td>
   </tr>
   <tr>
-    <td>Customer interface commitment</td>
+    <td>Customer integration</td>
+    <td>Low (start only)</td>
     <td>High</td>
-    <td>Low</td>
     <td>Medium</td>
-    <td>Low</td>
-    <td>High</td>
-    <td>Low</td>
-    <td>High</td>
+    <td>Medium</td>
   </tr>
   <tr>
     <td>Team size</td>
     <td>Big</td>
     <td>Variable (SAFE)</td>
-    <td>Small</td>
-    <td>Big</td>
-    <td>Big</td>
     <td>Big</td>
     <td>Big</td>
   </tr>
   <tr>
     <td>Deliveries frequency</td>
     <td>Low</td>
-    <td>Variable</td>
-    <td>High(2 weeks)</td>
+    <td>High</td>
+    <td>High</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Allow maintenance</td>
+    <td>No</td>
+    <td>No</td>
+    <td>Flexible</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>Documentation</td>
+    <td>High</td>
+    <td>Low</td>
+    <td>High</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Quality insurance</td>
+    <td>High</td>
+    <td>Low</td>
+    <td>High</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>team structure</td>
+    <td>Fix</td>
+    <td>Fix</td>
+    <td>Flexible</td>
+    <td>Flexible</td>
+  </tr>
+</table>
+
+Agile implementation
+<h2>HTML Table</h2>
+
+
+
+<table>
+  <tr>
+    <th>Principels</th>
+    <th>Feature-driven development</th>
+    <th>Scrum</th>
+    <th>Extrem Programing</th>
+    <th>Rapid application development</th>
+  </tr>
+  <tr>
+    <td>Flexibility</td>
+    <td>Medium</td>
+    <td>High</td>
+    <td>High</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Cost of modification</td>
+    <td>Medium</td>
+    <td>Low</td>
+    <td>Low</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Customer integration</td>
+    <td>Medium</td>
+    <td>High</td>
+    <td>Medium</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Team size</td>
+    <td>Small</td>
+    <td>Small</td>
+    <td>Small</td>
+    <td>Small</td>
+  </tr>
+  <tr>
+    <td>Deliveries frequency</td>
     <td>High(2 weeks)</td>
     <td>High(2 weeks)</td>
     <td>High(2 weeks)</td>
     <td>High(2 weeks)</td>
   </tr>
   <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Allow maintenance</td>
+    <td>No</td>
+    <td>No</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <tr>
+    <td>Documentation</td>
+    <td>Small</td>
+    <td>Small</td>
+    <td>Medium</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Quality insurance</td>
+    <td>Low</td>
+    <td>Low</td>
+    <td>High</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>team structure</td>
+    <td>Fix</td>
+    <td>Flexible</td>
+    <td>Flexible</td>
+    <td>Flexible</td>
   </tr>
 </table>
  
